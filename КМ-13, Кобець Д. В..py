@@ -15,3 +15,4 @@ print(phone_number)
 print('Str.', street_name, house_number,',','ap.', flat_number,',', town_name )
 print(postcode)
 print(country_name)
+Даша, я люблю тебя
